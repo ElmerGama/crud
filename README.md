@@ -1,13 +1,33 @@
-# React Hooks Tutorial
+# Nombre del Proyecto
 
-In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
+Una breve descripción de tu proyecto.
 
-### [View the demo](https://taniarascia.github.io/react-hooks/) | [Read the tutorial](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+## Disponible Scripts
 
-## Author
+En el directorio del proyecto, puedes ejecutar:
 
-- [Tania Rascia](https://www.taniarascia.com)
+### `npm start`
 
-## License
+Inicia la aplicación en modo de desarrollo.  
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
-This project is open source and available under the [MIT License](LICENSE).
+### `npm run build`
+
+Compila la aplicación para producción en la carpeta `build`.  
+Se agrupan todos los archivos correctamente para ser servidos.
+
+### `npm test`
+
+Inicia el ejecutor de pruebas en modo interactivo.
+
+### `npm run eject`
+
+Este comando es irreversible. Una vez que lo ejecutes, tendrás acceso a la configuración de la aplicación y a las dependencias que utiliza. Esto es útil si necesitas personalizar la configuración.
+
+## Aprender Más
+
+Puedes aprender más sobre Create React App en [la documentación oficial](https://create-react-app.dev/docs/getting-started/).
+
+## Autor
+
+Elmer Galarza Mamani
